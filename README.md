@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Hi there, I'm Shubham Jaiswal - aka [jaiswalshubham][website] 👋
 
 [![Website](https://img.shields.io/website?label=https://shubhamdev.vercel.app&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://shubhamdev.vercel.app)
