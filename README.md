@@ -53,6 +53,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Palindrome Number Program in Java programming language | Java tutorials](https://www.youtube.com/watch?v=e6hH20fpr_I)
+- [Program to check Whether a number is Prime or Not | Java Programming tutorials in Hindi](https://www.youtube.com/watch?v=75-Q3UVm2bs)
+- [Java program to print Fibonacci series | Java Programming tutorials for beginners in Hindi](https://www.youtube.com/watch?v=Lw2qVcxlMd4)
+- [Java Program  to Find Even And Odd Number | Java Programming Tutorials For Beginners in Hindi](https://www.youtube.com/watch?v=az0CPrxZpkI)
+- [Introduction to C programming Language for beginners](https://www.youtube.com/watch?v=-ELIqyNlU7M)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC-MDUIvI7glq_85omt2aLjw/videos?view_as=subscriber)
