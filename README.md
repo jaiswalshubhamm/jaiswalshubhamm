@@ -77,6 +77,8 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom/pull/1) in [jaiswalshubhamm/PizzaDeliveryEcom](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom)
+2. 💪 Opened PR [#1](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom/pull/1) in [jaiswalshubhamm/PizzaDeliveryEcom](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom)
 <!--END_SECTION:activity-->
 
 </details>
