@@ -79,11 +79,13 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaiswalshubhamm.jaiswalshubhamm)
 
 ---
+
 <summary>:zap: Github Stats</summary>
-<br/>
+![Shubham github stats](https://github-readme-stats.vercel.app/api?username=jaiswalshubhamm&theme=dark&count_private=true&show_icons=true&)
 
-<img align="left" alt="Shubham's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaiswalshubhamm&theme=dark&show_icons=true&hide_border=true" />
+---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaiswalshubhamm&theme=dark&hide=Ruby,Shell&layout=compact)
 
 [website]: https://shubhamdev.vercel.app/
 [twitter]: https://twitter.com/jaiswalshubhamm
