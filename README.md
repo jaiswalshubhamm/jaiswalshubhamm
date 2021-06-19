@@ -81,7 +81,8 @@
 ---
 
 <summary>:zap: Github Stats</summary>
-![Shubham github stats](https://github-readme-stats.vercel.app/api?username=jaiswalshubhamm&theme=dark&count_private=true&show_icons=true&)
+
+![Shubham github stats](https://github-readme-stats.vercel.app/api?username=jaiswalshubhamm&theme=dark&count_private=true&show_icons=true)
 
 ---
 
