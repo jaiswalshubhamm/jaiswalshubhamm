@@ -73,15 +73,17 @@
 2. 💪 Opened PR [#1](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom/pull/1) in [jaiswalshubhamm/PizzaDeliveryEcom](https://github.com/jaiswalshubhamm/PizzaDeliveryEcom)
 <!--END_SECTION:activity-->
 
-<summary>:zap: Github Stats</summary>
-
-<img align="left" alt="Shubham's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaiswalshubhamm&theme=dark&show_icons=true&hide_border=true" />
-
-
-<br/>
+---
 
 ### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jaiswalshubhamm.jaiswalshubhamm)
+
+---
+<summary>:zap: Github Stats</summary>
+<br/>
+
+<img align="left" alt="Shubham's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jaiswalshubhamm&theme=dark&show_icons=true&hide_border=true" />
+
 
 [website]: https://shubhamdev.vercel.app/
 [twitter]: https://twitter.com/jaiswalshubhamm
